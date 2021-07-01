@@ -1,4 +1,4 @@
 
-1.	aPY dataset：https://vision.cs.uiuc.edu/attributes/ Download aYahoo images to sort and train by testing set and training set in the aPY folder.
-2.	AWA2 dataset：http://cvml.ist.ac.at/AwA2/ Download the dataset, sort and train the testing set and training set in the AWA2 folder.
-3.	ImageNet dataset：You may search on google: "ILSVRC 2012 torrent" for ImageNet-1K, "ImageNet fall 2011 torrent" for a full release (including 2-hops, 3-hops and all).
+1. aPY dataset：https://vision.cs.uiuc.edu/attributes/ Download aYahoo images to sort and train by testing set and training set in the aPY folder.
+2. AWA2 dataset：http://cvml.ist.ac.at/AwA2/ Download the dataset, sort and train the testing set and training set in the AWA2 folder.
+3. ImageNet dataset：You may search on google: "ILSVRC 2012 torrent" for ImageNet-1K, "ImageNet fall 2011 torrent" for a full release (including 2-hops, 3-hops and all).
