@@ -3,7 +3,7 @@ This is a data availability statement.
 
 The datasets analysed during the current study are available in the repository:
 
-https://github.com/xf-wu/ZSL
+https://github.com/xf-wu/ZSL/blob/main/ZSL
 
 These datasets were derived from the following pulic domain resources:
 
