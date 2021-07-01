@@ -1,5 +1,9 @@
 # ZSL
 This is a data availability statement.
+The datasets analysed during the current study are available in the repository:
+These datasets were derived from the following pulic domain resources:
+https://vision.cs.uiuc.edu/attributes/
+http://cvml.ist.ac.at/AwA2/
 
 1.	aPY dataset：https://vision.cs.uiuc.edu/attributes/ Download aYahoo images to sort and train by testing set and training set in the aPY folder.
 2.	AWA2 dataset：http://cvml.ist.ac.at/AwA2/ Download the dataset, sort and train the testing set and training set in the AWA2 folder.
